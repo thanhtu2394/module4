@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ea9e0a6-0a02-44d7-b6dc-fb60f8815e34" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../b1_tongquanSping/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../b1_tongquanSping/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../b1_tongquanSping/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../b1_tongquanSping/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../b1_tongquanSping/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../b1_tongquanSping/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../b1_tongquanSping/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../b1_tongquanSping/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../b1_tongquanSping/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../b1_tongquanSping/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../b1_tongquanSping/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../b1_tongquanSping/src/main/java/codegym/controller/ConvertController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../b1_tongquanSping/src/main/java/codegym/controller/TuDienController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../b1_tongquanSping/src/main/java/codegym/controller/controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../b1_tongquanSping/src/main/java/config/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../b1_tongquanSping/src/main/java/config/AppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../b1_tongquanSping/src/main/webapp/views/convert.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../b1_tongquanSping/src/main/webapp/views/show.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../b1_tongquanSping/src/main/webapp/views/tudien.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/controller/EmailHopLeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/controller/QuanLyKhachHangController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/controller/btmaytinh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/controller/btsanwich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/controller/model/modelkhachhang/bean/Custumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/controller/model/modelkhachhang/reposire/RepositoriesImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/controller/model/modelkhachhang/reposire/repositosi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/config/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/config/AppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/Btmaytinh.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/btsanwich.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/thuchanhemail.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/thuchanhemailsucsess.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b1/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="21Gty3ByFsnmQcqhrU4zNkYiRe2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\A0321I1-THIEUTHANHTU\module4\b2_spring_controller\src\main\webapp\views" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\A0321I1-THIEUTHANHTU\module4\b2_spring_controller\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.21" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.21" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : org.example : b2_spring_controller-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_b2_spring_controller" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49205" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : org.example : b2_spring_controller-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_b2_spring_controller" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49205" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ea9e0a6-0a02-44d7-b6dc-fb60f8815e34" name="Default Changelist" comment="" />
+      <created>1637579502537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637579502537</updated>
+      <workItem from="1637579521587" duration="4820000" />
+      <workItem from="1637934968973" duration="536000" />
+      <workItem from="1638357983483" duration="3334000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1637579812052">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1637579812052" />
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1637582140400">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1637582140400" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1637580261756">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1637580261756" />
+    <state width="905" height="254" key="GridCell.Tab.0.bottom" timestamp="1638361484269">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="254" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1638361484269" />
+    <state width="905" height="254" key="GridCell.Tab.0.center" timestamp="1638361484269">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="254" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1638361484269" />
+    <state width="905" height="254" key="GridCell.Tab.0.left" timestamp="1638361484269">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="254" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1638361484269" />
+    <state width="905" height="254" key="GridCell.Tab.0.right" timestamp="1638361484269">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="254" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1638361484269" />
+    <state width="905" height="254" key="GridCell.Tab.1.bottom" timestamp="1638361484270">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="254" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1638361484270" />
+    <state width="905" height="254" key="GridCell.Tab.1.center" timestamp="1638361484269">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="254" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1638361484269" />
+    <state width="905" height="254" key="GridCell.Tab.1.left" timestamp="1638361484269">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="254" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1638361484269" />
+    <state width="905" height="254" key="GridCell.Tab.1.right" timestamp="1638361484269">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="254" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1638361484269" />
+    <state width="905" height="337" key="GridCell.Tab.10.bottom" timestamp="1638360669805">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="337" key="GridCell.Tab.10.bottom/0.0.1366.728@0.0.1366.728" timestamp="1638360669805" />
+    <state width="905" height="337" key="GridCell.Tab.10.center" timestamp="1638360669805">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="337" key="GridCell.Tab.10.center/0.0.1366.728@0.0.1366.728" timestamp="1638360669805" />
+    <state width="905" height="337" key="GridCell.Tab.10.left" timestamp="1638360669805">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="337" key="GridCell.Tab.10.left/0.0.1366.728@0.0.1366.728" timestamp="1638360669805" />
+    <state width="905" height="337" key="GridCell.Tab.10.right" timestamp="1638360669805">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="337" key="GridCell.Tab.10.right/0.0.1366.728@0.0.1366.728" timestamp="1638360669805" />
+    <state width="905" height="254" key="GridCell.Tab.2.bottom" timestamp="1638361484270">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="254" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1638361484270" />
+    <state width="905" height="254" key="GridCell.Tab.2.center" timestamp="1638361484270">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="254" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1638361484270" />
+    <state width="905" height="254" key="GridCell.Tab.2.left" timestamp="1638361484270">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="254" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1638361484270" />
+    <state width="905" height="254" key="GridCell.Tab.2.right" timestamp="1638361484270">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="254" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1638361484270" />
+    <state width="905" height="337" key="GridCell.Tab.9.bottom" timestamp="1638360668549">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="337" key="GridCell.Tab.9.bottom/0.0.1366.728@0.0.1366.728" timestamp="1638360668549" />
+    <state width="905" height="337" key="GridCell.Tab.9.center" timestamp="1638360668549">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="337" key="GridCell.Tab.9.center/0.0.1366.728@0.0.1366.728" timestamp="1638360668549" />
+    <state width="905" height="337" key="GridCell.Tab.9.left" timestamp="1638360668549">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="337" key="GridCell.Tab.9.left/0.0.1366.728@0.0.1366.728" timestamp="1638360668549" />
+    <state width="905" height="337" key="GridCell.Tab.9.right" timestamp="1638360668549">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="337" key="GridCell.Tab.9.right/0.0.1366.728@0.0.1366.728" timestamp="1638360668549" />
+    <state x="65" y="0" key="new project wizard" timestamp="1638361347962">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1638361347962" />
+  </component>
+</project>

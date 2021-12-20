@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form action="#" th:action="@{/baihat}" th:object="${baihat}" method="post">
+    <table>
+        <tr>
+            <td>id:</td>
+            <td><input type="text" th:field="*{id}"></td>
+            <td th:if="${#fields.hasErrors('id')}" th:errors="*{id}"></td>
+        </tr>
+        <tr>
+            <td>Name:</td>
+            <td><input type="text" th:field="*{name}"></td>
+            <td th:if="${#fields.hasErrors('name')}" th:errors="*{name}"></td>
+        </tr>
+        <tr>
+            <td>casy:</td>
+            <td><input type="text" th:field="*{casy}"></td>
+            <td th:if="${#fields.hasErrors('casy')}" th:errors="*{casy}"></td>
+        </tr>
+        <tr>
+            <td>the loai:</td>
+            <td><input type="text" th:field="*{theloai}"></td>
+            <td th:if="${#fields.hasErrors('theloai')}" th:errors="*{theloai}"></td>
+        </tr>
+    <tr>
+            <td><button type="submit">Submit</button></td>
+        </tr>
+    </table>
+</form>
+</body>
+</html>
